@@ -1,2 +1,2 @@
 # tugas3Herlina
-![tampilkan](herlina2.gif)
+![tampilkan](herlina3.gif)
